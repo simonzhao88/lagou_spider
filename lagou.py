@@ -1,7 +1,6 @@
 #! -*-coding:utf-8 -*-
 '''
 Function:计算拉勾网编程语言的关键词排名
-Author:蘭兹
 '''
 
 
